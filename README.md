@@ -1,22 +1,57 @@
 # Cursor AI Setup Portfolio
 
+## Overview
+
+This repository documents my setup of a modern AI-assisted development environment using Cursor IDE with Claude Code and Codex extensions. Completed on June 10, 2026.
+
+---
+
 ## Tools Installed
-- Cursor IDE
-- Claude Code Extension
-- Codex Extension
+
+| Tool | Purpose |
+|------|---------|
+| [Cursor IDE](https://cursor.com/) | AI-native code editor built on VS Code |
+| Claude Code (Cursor Extension) | Anthropic's AI coding assistant integrated into Cursor |
+| Codex (Cursor Extension) | OpenAI's code model extension for Cursor |
+
+---
 
 ## Steps Completed
-1. Installed Cursor IDE
-2. Installed Claude Code
-3. Installed Codex
-4. Created GitHub repository
-5. Added project documentation
 
-## Issues Encountered
-- No major issues encountered during setup.
+1. **Downloaded and installed Cursor IDE** from [cursor.com](https://cursor.com/)
+2. **Installed Claude Code extension** via Cursor's Extensions panel — searched "Claude Code", installed it, and signed in with my Anthropic account
+3. **Installed Codex extension** via Cursor's Extensions panel — searched "Codex", installed it, and authenticated separately
+4. **Created a public GitHub repository** at [github.com/Rohan240502/cursor-setup-portfolio](https://github.com/Rohan240502/cursor-setup-portfolio)
+5. **Opened the repository in Cursor** using File → Open Folder
+6. **Created this README.md** documenting the full setup process
+7. **Committed and pushed to GitHub** using Cursor's integrated terminal:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit: add setup documentation"
+git push origin main
+```
+
+---
+
+## Issues & Observations
+
+- **Two separate logins required:** Claude Code and Codex are independent extensions and each requires its own authentication. I made sure to sign into both individually before testing.
+- **Extension activation:** After installing both extensions I restarted Cursor to ensure they were fully loaded and visible in the sidebar.
+
+---
 
 ## What I Learned
-- Installing AI development tools
-- Using Cursor Extensions
-- Creating a GitHub repository
-- Writing technical documentation
+
+- Cursor IDE supports multiple AI extensions simultaneously, each connected to a different model (Claude vs Codex)
+- Git operations can be performed entirely within Cursor's integrated terminal without switching to a separate tool
+- Clear technical documentation is a core part of any development workflow, not something to add at the end
+
+---
+
+## Environment
+
+- **OS:** Windows 11
+- **Cursor Version:** Latest stable (June 2026)
+- **Time to complete:** ~30 minutesechnical documentation

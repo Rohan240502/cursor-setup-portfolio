@@ -51,3 +51,6 @@ You cluster.
 We use Cluster AI to group thousands of keywords into unique pages, ensuring that we never write duplicate or cannibalized content.
 
 AI is excellent at grouping data and mapping structure. Use it to build your roadmap, and then hire human experts to write the content. That's the winning combo.
+
+---
+*Verified real posts*

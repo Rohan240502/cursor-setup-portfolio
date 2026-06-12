@@ -1,0 +1,25 @@
+# LinkedIn Posts — Brendan Hufford
+
+**Profile:** https://www.linkedin.com/in/brendanhufford/
+**Collected:** June 2026
+
+---
+
+## Post 1
+**Date:** [paste date]
+
+[Paste full post text here]
+
+---
+
+## Post 2
+**Date:** [paste date]
+
+[Paste full post text here]
+
+---
+
+## Post 3
+**Date:** [paste date]
+
+[Paste full post text here]

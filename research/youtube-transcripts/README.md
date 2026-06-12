@@ -15,5 +15,6 @@ This folder contains transcripts from YouTube videos by the 10 experts in this r
 | [eli-schwartz-future-of-seo-ai.md](eli-schwartz-future-of-seo-ai.md) | Eli Schwartz | The Future of SEO in the Age of AI |
 | [kyle-roof-how-to-rank-ai-content.md](kyle-roof-how-to-rank-ai-content.md) | Kyle Roof | How to Rank AI Content Safely |
 | [aleyda-solis-ai-seo-workflows.md](aleyda-solis-ai-seo-workflows.md) | Aleyda Solis | Building Scalable AI SEO Workflows |
-| [liam-fallen-llm-seo-benchmarks.md](liam-fallen-llm-seo-benchmarks.md) | Liam Fallen | Benchmarking LLMs for SEO Content |
+| [zoe-ashbridge-keyword-research-ai.md](zoe-ashbridge-keyword-research-ai.md) | Zoe Ashbridge | AI keyword research |
 | [nick-jordan-content-velocity-systems.md](nick-jordan-content-velocity-systems.md) | Nick Jordan | Scaling Content Velocity Without AI Writers |
+| [cyrus-shepard-hcu-google-updates.md](cyrus-shepard-hcu-google-updates.md) | Cyrus Shepard | Google Core Updates and AI Overviews |

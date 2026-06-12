@@ -74,8 +74,8 @@ AI-generated content is reshaping SEO — but most coverage is hype. I wanted to
 
 ### What I collected
 - 10 expert profiles with detailed annotations
-- LinkedIn posts from all 10 experts (3-5 posts each, manually collected)
-- YouTube transcripts from videos across 6+ creators
+- LinkedIn posts from all 10 experts (3 posts each, manually collected)
+- YouTube transcripts from 6+ videos
 - Newsletter excerpts from Kevin Indig's Growth Memo
 
 ### Key insight

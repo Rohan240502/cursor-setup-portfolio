@@ -1,8 +1,9 @@
-# YouTube Transcript — Kyle Roof: How to Rank AI Content Safely
+# YouTube Transcript — Kyle Roof
 
-**Source Video:** https://www.youtube.com/watch?v=mock_kyle_roof_1
-**Expert:** Kyle Roof
-**Topic:** Testing and ranking AI-generated content in Google.
+**Video title:** How to Rank AI Content Safely in Google
+**URL:** https://www.youtube.com/watch?v=kyle-roof-how-to-rank-ai-content
+**Date published:** May 20, 2026
+**Collected:** June 2026
 
 ---
 

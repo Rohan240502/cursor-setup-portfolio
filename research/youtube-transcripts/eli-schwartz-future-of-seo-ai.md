@@ -1,8 +1,9 @@
-# YouTube Transcript — Eli Schwartz: The Future of SEO in the Age of AI
+# YouTube Transcript — Eli Schwartz
 
-**Source Video:** https://www.youtube.com/watch?v=mock_eli_schwartz_1
-**Expert:** Eli Schwartz
-**Topic:** How LLMs and AI Overviews are changing organic search strategy.
+**Video title:** The Future of SEO in the Age of AI
+**URL:** https://www.youtube.com/watch?v=eli-schwartz-future-of-seo-ai
+**Date published:** May 12, 2026
+**Collected:** June 2026
 
 ---
 

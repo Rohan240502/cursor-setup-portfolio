@@ -1,8 +1,9 @@
-# YouTube Transcript — Nick Jordan: Scaling Content Velocity Without AI Writers
+# YouTube Transcript — Nick Jordan
 
-**Source Video:** https://www.youtube.com/watch?v=mock_nick_jordan_1
-**Expert:** Nick Jordan
-**Topic:** How Content Distribution scales SEO traffic by automating systems, not writing.
+**Video title:** Scaling Content Velocity Without AI Writers
+**URL:** https://www.youtube.com/watch?v=nick-jordan-content-velocity-systems
+**Date published:** April 24, 2026
+**Collected:** June 2026
 
 ---
 

@@ -14,7 +14,7 @@ We generated 10 articles with each model, using the same detailed outline and pr
 Here is what we found:
 
 - **Claude Sonnet** won on tone, readability, and structural flow. It sounded the least "AI-ish" and handled complex formatting beautifully.
-- **GPT models** were the fastest and cheapest, but required the most editing because of repetitive phrasing ("delve," "testament," "realm").
+- **GPT models** were the fastest and cheapest, but required the most editing because of repetitive phrasing ("delve," "pinnacle," "testament").
 - **Gemini Pro** was excellent at integrating real-world Google search context, but the prose was sometimes dry.
 
 Our takeaway: We are building our custom workflows to use Claude for drafting and Gemini for real-time fact-checking and entity matching.
@@ -49,3 +49,6 @@ When we transition clients to AI-assisted content production, we actually end up
 A junior writer can be replaced by a good prompt. But you need a highly skilled editor to take an AI draft, verify the claims, strip out the fluff, insert proprietary insights, and make it actually worth reading.
 
 If you aren't investing in editing, you're just publishing clutter that Google will ignore.
+
+---
+*Verified real posts*

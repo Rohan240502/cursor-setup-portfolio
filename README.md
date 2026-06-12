@@ -18,20 +18,13 @@ This repository documents my setup of a modern AI-assisted development environme
 
 ## Steps Completed
 
-1. **Downloaded and installed Cursor IDE** from [cursor.com](https://cursor.com/)
+1. **Downloaded and installed Cursor IDE** from cursor.com
 2. **Installed Claude Code extension** via Cursor's Extensions panel — searched "Claude Code", installed it, and signed in with my Anthropic account
 3. **Installed Codex extension** via Cursor's Extensions panel — searched "Codex", installed it, and authenticated separately
-4. **Created a public GitHub repository** at [github.com/Rohan240502/cursor-setup-portfolio](https://github.com/Rohan240502/cursor-setup-portfolio)
+4. **Created a public GitHub repository**
 5. **Opened the repository in Cursor** using File → Open Folder
 6. **Created this README.md** documenting the full setup process
-7. **Committed and pushed to GitHub** using Cursor's integrated terminal:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: add setup documentation"
-git push origin main
-```
+7. **Committed and pushed to GitHub** using Cursor's integrated terminal
 
 ---
 
@@ -54,7 +47,7 @@ git push origin main
 
 - **OS:** Windows 11
 - **Cursor Version:** Latest stable (June 2026)
-- **Time to complete:** ~30 minutesechnical documentation
+- **Time to complete:** ~30 minutes
 
 ---
 
@@ -79,4 +72,4 @@ AI-generated content is reshaping SEO — but most coverage is hype. I wanted to
 - Newsletter excerpts from Kevin Indig's Growth Memo
 
 ### Key insight
-The strongest practitioners consistently emphasize that AI content fails when used to sc
+The strongest practitioners consistently emphasize that AI content fails when used to scale volume — and succeeds when used to scale depth. Experts who get results use AI to enhance topical coverage and internal linking logic, not to replace editorial judgment.

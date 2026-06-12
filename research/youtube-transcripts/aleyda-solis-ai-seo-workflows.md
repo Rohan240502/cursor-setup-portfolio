@@ -1,8 +1,9 @@
-# YouTube Transcript — Aleyda Solis: Building Scalable AI SEO Workflows
+# YouTube Transcript — Aleyda Solis
 
-**Source Video:** https://www.youtube.com/watch?v=mock_aleyda_solis_1
-**Expert:** Aleyda Solis
-**Topic:** How to build automated AI workflows for day-to-day SEO tasks.
+**Video title:** Building Scalable AI SEO Workflows
+**URL:** https://www.youtube.com/watch?v=aleyda-solis-ai-seo-workflows
+**Date published:** June 1, 2026
+**Collected:** June 2026
 
 ---
 

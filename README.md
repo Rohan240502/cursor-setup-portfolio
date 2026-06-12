@@ -79,4 +79,4 @@ AI-generated content is reshaping SEO — but most coverage is hype. I wanted to
 - Newsletter excerpts from Kevin Indig's Growth Memo
 
 ### Key insight
-The strongest practitioners consistently emphasize that AI content fails when used to scale volume — and succeeds when used to scale depth. Experts who get results use AI to enhance topical coverage and internal linking logic, not to replace editorial judgment.
+The strongest practitioners consistently emphasize that AI content fails when used to sc

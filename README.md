@@ -55,3 +55,28 @@ git push origin main
 - **OS:** Windows 11
 - **Cursor Version:** Latest stable (June 2026)
 - **Time to complete:** ~30 minutesechnical documentation
+
+---
+
+## Research Project: AI-Powered SEO Content Production
+
+### Why this topic
+AI-generated content is reshaping SEO — but most coverage is hype. I wanted to study practitioners actively running real programs with measurable results, not just writing about the concept.
+
+### Experts studied
+10 practitioners: Eli Schwartz, Kyle Roof, Aleyda Solis, Kevin Indig, Brendan Hufford, Liam Fallen, Zoe Ashbridge, Nick Jordan, Koray Tugberk GUBUR, and Cyrus Shepard.
+
+### Repository structure
+- `/research/sources.md` — annotated list of all 10 experts
+- `/research/linkedin-posts/` — posts organized by author (manually collected)
+- `/research/youtube-transcripts/` — transcripts organized by video
+- `/research/other/` — newsletters and additional materials
+
+### What I collected
+- 10 expert profiles with detailed annotations
+- LinkedIn posts from all 10 experts (3-5 posts each, manually collected)
+- YouTube transcripts from videos across 6+ creators
+- Newsletter excerpts from Kevin Indig's Growth Memo
+
+### Key insight
+The strongest practitioners consistently emphasize that AI content fails when used to scale volume — and succeeds when used to scale depth. Experts who get results use AI to enhance topical coverage and internal linking logic, not to replace editorial judgment.
